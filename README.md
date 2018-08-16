@@ -2,7 +2,7 @@ Instalando Google Speech
 
 	pip3 install google_speech
 
-Instalar Linux derivados do Debian
+Instalando dependecias necessárias para rodar em linux derivados do Debian
 
 	sudo apt-get install sox libsox-fmt-mp3
 
